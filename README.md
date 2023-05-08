@@ -37,7 +37,7 @@ The code requires the following directory structure
 
 
 ### Dependencies
-Use the command below to install the packages according to the configuration file
+Use the command below to install the packages according to the configuration file. We recommend using a virtual environment equipped with Python version 3.8. 
 ```
 pip install -r requirements.txt
 ```
